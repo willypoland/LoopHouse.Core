@@ -1,0 +1,17 @@
+﻿{
+  "name": "com.roz.common",
+  "version": "0.1.1",
+  "unity": "2021.3",
+  "displayName": "Roz.Common",
+  "description": "Some utilities and helpers for unity",
+  "keywords": [
+    "common",
+    "helper",
+    "utility"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willypoland/Roz.Common"
+  }
+}

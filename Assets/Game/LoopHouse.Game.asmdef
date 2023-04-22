@@ -1,0 +1,25 @@
+{
+    "name": "LoopHouse.Game",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ff351c9c47d01c246bf40ed534f52d8a",
+        "GUID:72cfd79d942e31c4b937972ad079a600",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:de4e6084e6d474788bb8c799d6b461ec",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:1ce26df7b3eef46498ad051492322ad8",
+        "GUID:ad4bafa4adcb03b4dbd208065f3f065a",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

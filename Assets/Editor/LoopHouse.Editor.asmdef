@@ -1,0 +1,21 @@
+{
+    "name": "LoopHouse.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:40719a0a6368e2149bfec2d2f8543079",
+        "GUID:de4e6084e6d474788bb8c799d6b461ec",
+        "GUID:1ce26df7b3eef46498ad051492322ad8",
+        "GUID:ad4bafa4adcb03b4dbd208065f3f065a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

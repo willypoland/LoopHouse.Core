@@ -1,0 +1,22 @@
+﻿{
+  "cube": "Cube",
+  "cube_desc": "Created for tests",
+  "left": "LEFT",
+  "right": "RIGHT",
+  "forward": "FORWARD",
+  "door": "Door",
+  "door_desc": "\"Simple\" door",
+  "door_final": "An intriguing door that <i>OBVIOUSLY</i> needs two keys",
+  ".": "",
+  
+  "box_title" : "Box",
+  "box_description" : "A regular box, created for tests",
+  "door_title" : "Door",
+  "test_dialogue_0" : "Hi, this is a test dialog.",
+  "test_dialogue_1": "How are you, for example?",
+  "test_dialogue_2" : "Test phrases as they are...",
+  "test_dialogue_3" : "End of dialog.",
+  "test_param" : "My name: {0}, and position: (x:{1:F1} y:{2:F1} z:{3:F3})"
+}
+
+
